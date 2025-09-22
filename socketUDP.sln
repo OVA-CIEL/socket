@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36221.1 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1.csproj", "{ED16CB05-AB6C-4147-92B1-8C57EA0BDD70}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "socketUDP", "socketUDP.csproj", "{ED16CB05-AB6C-4147-92B1-8C57EA0BDD70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
